@@ -11,6 +11,9 @@ public class Main {
     public void a1(){
         System.out.println("a1");
     }
+    public void a2(){
+        System.out.println("a2");
+    }
     public static void main(String[]args){
         System.out.println("test");
     }
