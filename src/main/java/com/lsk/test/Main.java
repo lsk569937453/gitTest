@@ -8,6 +8,9 @@ package com.lsk.test;
  * @date 2020/9/19 0019 6:18
  */
 public class Main {
+    public void a1(){
+        System.out.println("a1");
+    }
     public static void main(String[]args){
         System.out.println("test");
     }
